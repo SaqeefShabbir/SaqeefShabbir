@@ -20,6 +20,11 @@ Muhammad Saqeef Shabbir is computer science and technology enthusiast, loves to 
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+<h3>Module Bundler</h3>
+<p>
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-FB542B?style=flat-square&logo=webpack&logoColor=white" />
+</p>
+
 <h3>Languages I know</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
