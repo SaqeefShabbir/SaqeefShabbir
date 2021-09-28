@@ -27,6 +27,11 @@ Muhammad Saqeef Shabbir is computer science and technology enthusiast, loves to 
 
 <h3>Languages I know</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-E10098?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/-CSS-13aa52?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
