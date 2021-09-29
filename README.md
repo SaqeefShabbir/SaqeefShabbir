@@ -33,5 +33,6 @@ Muhammad Saqeef Shabbir is computer science and technology enthusiast, loves to 
   <img alt="Git" src="https://img.shields.io/badge/-Git-E10098?style=flat-square&logo=git&logoColor=white" />
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/-CSS-13aa52?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-430098?style=flat-square&logo=jquery&logoColor=white" />
 </p>
 
