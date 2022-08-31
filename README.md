@@ -1,6 +1,6 @@
 ### Hi I'm Saqeef Shabbir 👋
 
-Saqeef Shabbir is computer science and technology enthusiast, loves to code... bookworm... web surfer...
+He is computer science and technology enthusiast, loves to code... bookworm... web surfer... foodie...
 
 <h3>Here are some ideas to get you started</h3>
 - 🔭 I’m currently working ...
@@ -44,3 +44,5 @@ Saqeef Shabbir is computer science and technology enthusiast, loves to code... b
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-13aa52?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaqeefShabbir&show_icons=true&theme=gotham" alt="SaqeefShabbir" />
