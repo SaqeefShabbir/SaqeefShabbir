@@ -45,4 +45,4 @@ He is computer science and technology enthusiast, loves to code... bookworm... w
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-13aa52?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaqeefShabbir&show_icons=true&theme=gotham" alt="SaqeefShabbir" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaqeefShabbir&show_icons=true&theme=tokyonight" alt="SaqeefShabbir" />
